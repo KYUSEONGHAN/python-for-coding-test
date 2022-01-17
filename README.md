@@ -330,4 +330,4 @@
   
   
  ### 출처 
- [저자 깃허](https://github.com/ndb796/python-for-coding-test)
+ [저자(나동빈님) 깃허브](https://github.com/ndb796/python-for-coding-test)
