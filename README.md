@@ -1,5 +1,8 @@
 # python-for-coding-test
 "이것이 취업을 위한 코딩 테스트다 with python" 서적을 공부하며 정리한 레포입니다.
+
+![이코테 메인 이미지](https://www.hanbit.co.kr/data/books/B8945183661_l.jpg)
+
 ### 이것이 취업을 위한 코딩 테스트다 with Python
 > 취업과 이직을 결정하는 알고리즘 인터뷰 완벽 가이드 (2020년 08월 05일 정식 출시)
 
@@ -324,3 +327,7 @@
 * 최소 공통 조상 (Lowest Common Ancestor, LCA)
   * [LCA 기본](https://www.acmicpc.net/problem/11437): ([Python 3.7 코드](/21/5.py) / [C++ 코드](/21/5.cpp))
   * [LCA 심화](https://www.acmicpc.net/problem/11438): ([Python 3.7 코드](/21/6.py) / [C++ 코드](/21/6.cpp))
+  
+  
+ ### 출처 
+ [저자 깃허](https://github.com/ndb796/python-for-coding-test)
