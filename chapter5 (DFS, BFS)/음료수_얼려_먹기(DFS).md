@@ -52,6 +52,7 @@ for i in range(n):
             result += 1
 
 print(result) 
+
 ```
 
 ## 출처 && 깃허브
